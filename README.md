@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 Hi, I’m Ananya Jaiswal, a CSE undergraduate at Lovely Professional University with a strong passion for software development. I enjoy building clean, practical solutions, experimenting with modern technologies, and continuously improving my skills. Focused on learning, consistency, and creating tech that actually makes an impact.
 
 
