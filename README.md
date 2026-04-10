@@ -38,7 +38,7 @@ I enjoy working with modern technologies and continuously improving my skills.
 
 ---
 
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="100%" />
+<img src="https://raw.githubusercontent.com/ananya411/ananya411/main/WhatsApp%20Image%202026-03-25%20at%2001.59.29.jpeg" width="200" style="border-radius:50%" />
 
 </td>
 </tr>
