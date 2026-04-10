@@ -100,7 +100,7 @@ Java • C++ • Python • React • Node.js • AI • DSA
 ## 📫 Reach Me
 
 * 💼 LinkedIn: https://www.linkedin.com/in/ananya-jaiswal-688b9a27b
-* 📧 Email: [yourmail@gmail.com](mailto:yourmail@gmail.com)
+* 📧 Email: [ananyasbr06@gmail.com](mailto:ananyasbr06@gmail.com)
 
 ---
 
