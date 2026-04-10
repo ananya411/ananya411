@@ -16,16 +16,18 @@
 ### Ananya Jaiswal
 
 💻 CSE Undergraduate
+
 🚀 Full Stack Developer
 
 <br>
 
 📍 India
+
 💡 Building impactful tech
 
 </td>
 
-<td width="65%">
+<td width="85%">
 
 ## 🚀 About Me
 
