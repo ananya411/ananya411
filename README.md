@@ -1,49 +1,67 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ananya411/ananya411/main/WhatsApp%20Image%202026-03-25%20at%2001.59.29.jpeg" width="120" style="border-radius:50%" />
+<!-- Cozy pixel art / aesthetic GIF banner — replace with your own or keep a similar vibe -->
+<img src="https://raw.githubusercontent.com/ananya411/ananya411/main/WhatsApp%20Image%202026-03-25%20at%2001.59.29.jpeg" width="100%" style="border-radius: 12px; max-height: 300px; object-fit: cover;" />
 
-# Ananya Jaiswal
+<br/>
 
-**Full Stack Developer · AI Enthusiast · CSE Undergraduate**
+# Hi 👋, I'm Ananya Jaiswal
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+%F0%9F%9A%80;AI+%26+ML+Enthusiast+%F0%9F%A4%96;Hackathon+Winner+%F0%9F%8F%86;Building+things+that+matter+%E2%9C%A8)](https://git.io/typing-svg)
+
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ananya-jaiswal-688b9a27b)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ananyasbr06@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ananya411)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=flat-square&logo=vercel&logoColor=white)](#)
+[![Resume](https://img.shields.io/badge/Resume-FF6B6B?style=flat-square&logo=adobeacrobatreader&logoColor=white)](#)
 ![Profile Views](https://komarev.com/ghpvc/?username=ananya411&style=flat-square&color=6366f1)
 
 </div>
 
 ---
 
-## About Me
+## 👩‍💻 About Me
 
-I'm a Computer Science undergraduate at Lovely Professional University building full-stack applications that solve real problems. I bridge the gap between clean UI and solid backend architecture — from shipping a real-time autoscaling engine to winning a national hackathon at IIIT Kalyani.
+CSE undergraduate at **Lovely Professional University** building full-stack apps that solve real problems. I bridge clean UI with solid backend architecture — from shipping a real-time autoscaling engine to winning a national hackathon at IIIT Kalyani.
 
-- 🔭 Currently building **AI-powered web applications** with React, Node.js & ML
+- 🔭 Currently building **AI-powered web apps** with React, Node.js & ML
 - 🏆 **Hackathon Winner** — IIIT Kalyani, for an innovative scalable web solution
-- 👩‍🏫 Mentored **50+ students** in AWS cloud computing & coding sessions
-- 🎓 Certified in **React (HackerRank)** and **Generative AI (Oracle University)**
+- 👩‍🏫 Mentored **50+ students** in AWS cloud computing & coding
+- 🌱 Currently deepening expertise in **LLMs, RAG pipelines & System Design**
+- 🎯 Open to **frontend internships** and **full-stack collaborations**
 - 📍 Punjab, India
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
 
 ### 🤖 AI-Based Predictive Autoscaling Engine
 > React.js · Express.js · Zustand · WebSockets · OLS Linear Regression
 
-A real-time infrastructure dashboard that **predicts CPU load** before it spikes — transitioning from reactive to predictive scaling using a custom ML model built from scratch in JavaScript.
+A real-time infrastructure dashboard that **predicts CPU load before it spikes** — transitioning from reactive to predictive scaling using a custom ML model built from scratch in JavaScript.
 
-- Built OLS Linear Regression from scratch in JS to forecast CPU load
-- Live telemetry via WebSockets with 5-second refresh cycles
-- Glassmorphism UI with role-based authentication
+- 📌 Built OLS Linear Regression from scratch in JS to forecast CPU load
+- 📡 Live telemetry via WebSockets with 5-second refresh cycles
+- 🎨 Glassmorphism UI with role-based authentication
+
+[![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](#)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-6366F1?style=flat-square&logo=vercel&logoColor=white)](#)
 
 ---
 
 ### 🛡️ SafeHer AI Shield
 > React.js · Node.js · NLP · Real-time Alerts
 
-An AI-powered women safety platform with abuse detection using NLP, smart location tracking, and real-time emergency alerts.
+An AI-powered women safety platform with **NLP-based abuse detection**, smart location tracking, and real-time emergency alerts.
+
+- 🧠 NLP pipeline for real-time harmful content detection
+- 📍 Smart location tracking with emergency broadcast
+- 🔔 Instant alert system for trusted contacts
+
+[![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](#)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-6366F1?style=flat-square&logo=vercel&logoColor=white)](#)
 
 ---
 
@@ -52,9 +70,15 @@ An AI-powered women safety platform with abuse detection using NLP, smart locati
 
 Full-stack platform for players and coaches to manage registrations, match schedules, team coordination, and performance records with role-based dashboards.
 
+- 🎭 Role-based dashboards for players, coaches & admins
+- 📅 Automated scheduling and match coordination
+- 📊 Performance analytics and records tracking
+
+[![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](#)
+
 ---
 
-## Tech Stack
+## 🛠 Tech Stack
 
 **Languages**
 
@@ -87,16 +111,17 @@ Full-stack platform for players and coaches to manage registrations, match sched
 
 ---
 
-## Certifications
+## 🏆 GitHub Trophies
 
-| Certification | Issuer |
-|---|---|
-| Frontend Developer (React) | HackerRank |
-| Generative AI Professional | Oracle University |
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ananya411&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
 
@@ -105,9 +130,17 @@ Full-stack platform for players and coaches to manage registrations, match sched
 
 </div>
 
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananya411&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1" height="165"/>
+
+</div>
+
 ---
 
-## Contribution Snake
+## 📊 Activity & Contributions
+
+### 🐍 Contribution Snake
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
@@ -115,10 +148,34 @@ Full-stack platform for players and coaches to manage registrations, match sched
 
 ---
 
+## 🎓 Certifications
+
+| Certification | Issuer |
+|---|---|
+| 🟢 Frontend Developer (React) | HackerRank |
+| 🟣 Generative AI Professional | Oracle University |
+
+---
+
+## 💡 Dev Quote
+
+> *"Code is like humor. When you have to explain it, it's bad."* — Cory House
+
+---
+
+## 🤝 Let's Connect
+
 <div align="center">
+
+💼 Open to **freelance, internships & full-stack collaborations**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ananya-jaiswal-688b9a27b)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ananyasbr06@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white)](#)
+
+⭐ If you like my work, consider **starring my repositories!**
 
 **Code · Build · Impact**
 
-*Open to frontend internships and full-stack collaborations*
-
 </div>
+
