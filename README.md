@@ -15,7 +15,7 @@
 # 💫 About Me
 
 ✨ Passionate about building scalable and modern web applications  
-💻 Skilled in Java, Spring Boot, React.js, JavaScript, and C++  
+💻 Skilled in Java, Spring Boot, React.js, JavaScript  
 🚀 Exploring AI, Machine Learning, and scalable systems  
 🌸 Love solving coding challenges and learning new technologies  
 
